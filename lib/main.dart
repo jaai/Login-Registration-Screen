@@ -11,7 +11,7 @@ class FlutterStarterDemo extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
 
-      home: login_page(),
+      home: NewsScreen(),
     );
   }
 }
